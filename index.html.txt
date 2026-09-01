@@ -1,1 +1,14 @@
-<!DOCTYPE
+<!DOCTYPE html>
+<html>
+<head>
+          <title>My first Web Page</title>
+</head>
+
+<body>
+         <h1>Hello World!</h1>
+         <p>Welcome to my first HTML webpage.</p>
+          <h2>About me</h2>
+           <p> Hii, I'm Sujata Sharma.</p>
+         <button>click me</button>
+</body>
+</html>
